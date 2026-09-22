@@ -120,6 +120,10 @@ voicetype --config      # 打印当前配置
 `重启 PulseAudio + 卸载 module-suspend-on-idle` 并弹窗提示重说；之后空闲一段时间再自动把
 `suspend-on-idle` 装回去以省电（见 `suspend_reload_idle`）。这样在**可靠**与**省电**之间取平衡。
 
+## 更新日志
+
+见 [CHANGELOG.md](CHANGELOG.md)。
+
 ## 许可
 
 MIT
